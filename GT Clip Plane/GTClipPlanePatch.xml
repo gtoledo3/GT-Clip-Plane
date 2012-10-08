@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nodeAttributes</key>
+	<dict>
+		<key>category</key>
+		<string>GT Clip Plane</string>
+		<key>categories</key>
+		<array>
+			<string>GT</string>
+		</array>
+		<key>copyright</key>
+		<string>Copyright 2011. All rights reserved.</string>
+		<key>description</key>
+		<string>This activates GL Clip Planes.
+		
+www.georgetoledo.com</string>
+		<key>name</key>
+		<string>GT Clip Plane</string>
+	</dict>
+	<key>inputAttributes</key>
+	<dict>
+		<key>inputBypass</key>
+		<dict>
+			<key>description</key>
+			<string>Setting this to True bypasses environmental functions.</string>
+			<key>name</key>
+			<string>Bypass</string>
+		</dict>
+		<key>inputClipPlane0</key>
+		<dict>
+			<key>description</key>
+			<string>ClipPlane0</string>
+			<key>name</key>
+			<string>ClipPlane0</string>
+		</dict>
+		<key>inputClipAX</key>
+		<dict>
+			<key>description</key>
+			<string>ClipAX</string>
+			<key>name</key>
+			<string>ClipAX</string>
+		</dict>
+
+		<key>inputClipAY</key>
+		<dict>
+			<key>description</key>
+			<string>ClipAY</string>
+			<key>name</key>
+			<string>ClipAY</string>
+		</dict>
+		<key>inputClipAZ</key>
+		<dict>
+			<key>description</key>
+			<string>ClipAZ</string>
+			<key>name</key>
+			<string>ClipAZ</string>
+		</dict>
+		<key>inputClipAW</key>
+		<dict>
+			<key>description</key>
+			<string>ClipAW</string>
+			<key>name</key>
+			<string>ClipAW</string>
+		</dict>
+		
+		<key>inputClipPlane1</key>
+		<dict>
+			<key>description</key>
+			<string>ClipPlane1</string>
+			<key>name</key>
+			<string>ClipPlane1</string>
+		</dict>
+		<key>inputClipBX</key>
+		<dict>
+			<key>description</key>
+			<string>ClipBX</string>
+			<key>name</key>
+			<string>ClipBX</string>
+		</dict>
+
+		<key>inputClipBY</key>
+		<dict>
+			<key>description</key>
+			<string>ClipBY</string>
+			<key>name</key>
+			<string>ClipBY</string>
+		</dict>
+		<key>inputClipBZ</key>
+		<dict>
+			<key>description</key>
+			<string>ClipBZ</string>
+			<key>name</key>
+			<string>ClipBZ</string>
+		</dict>
+		<key>inputClipBW</key>
+		<dict>
+			<key>description</key>
+			<string>ClipBW</string>
+			<key>name</key>
+			<string>ClipBW</string>
+		</dict>
+
+		<key>inputClipPlane2</key>
+		<dict>
+			<key>description</key>
+			<string>ClipPlane2</string>
+			<key>name</key>
+			<string>ClipPlane2</string>
+		</dict>
+		<key>inputClipCX</key>
+		<dict>
+			<key>description</key>
+			<string>ClipCX</string>
+			<key>name</key>
+			<string>ClipCX</string>
+		</dict>
+
+		<key>inputClipCY</key>
+		<dict>
+			<key>description</key>
+			<string>ClipCY</string>
+			<key>name</key>
+			<string>ClipCY</string>
+		</dict>
+		<key>inputClipCZ</key>
+		<dict>
+			<key>description</key>
+			<string>ClipCZ</string>
+			<key>name</key>
+			<string>ClipCZ</string>
+		</dict>
+		<key>inputClipCW</key>
+		<dict>
+			<key>description</key>
+			<string>ClipCW</string>
+			<key>name</key>
+			<string>ClipCW</string>
+		</dict>
+	
+		<key>inputClipPlane3</key>
+		<dict>
+			<key>description</key>
+			<string>ClipPlane3</string>
+			<key>name</key>
+			<string>ClipPlane3</string>
+		</dict>
+		<key>inputClipDX</key>
+		<dict>
+			<key>description</key>
+			<string>ClipDX</string>
+			<key>name</key>
+			<string>ClipDX</string>
+		</dict>
+
+		<key>inputClipDY</key>
+		<dict>
+			<key>description</key>
+			<string>ClipDY</string>
+			<key>name</key>
+			<string>ClipDY</string>
+		</dict>
+		<key>inputClipDZ</key>
+		<dict>
+			<key>description</key>
+			<string>ClipDZ</string>
+			<key>name</key>
+			<string>ClipDZ</string>
+		</dict>
+		<key>inputClipDW</key>
+		<dict>
+			<key>description</key>
+			<string>ClipDW</string>
+			<key>name</key>
+			<string>ClipDW</string>
+		</dict>
+
+		<key>inputClipPlane4</key>
+		<dict>
+			<key>description</key>
+			<string>ClipPlane4</string>
+			<key>name</key>
+			<string>ClipPlane4</string>
+		</dict>
+		<key>inputClipEX</key>
+		<dict>
+			<key>description</key>
+			<string>ClipEX</string>
+			<key>name</key>
+			<string>ClipEX</string>
+		</dict>
+
+		<key>inputClipEY</key>
+		<dict>
+			<key>description</key>
+			<string>ClipEY</string>
+			<key>name</key>
+			<string>ClipEY</string>
+		</dict>
+		<key>inputClipEZ</key>
+		<dict>
+			<key>description</key>
+			<string>ClipEZ</string>
+			<key>name</key>
+			<string>ClipEZ</string>
+		</dict>
+		<key>inputClipEW</key>
+		<dict>
+			<key>description</key>
+			<string>ClipEW</string>
+			<key>name</key>
+			<string>ClipEW</string>
+		</dict>
+
+		<key>inputClipPlane5</key>
+		<dict>
+			<key>description</key>
+			<string>ClipPlane5</string>
+			<key>name</key>
+			<string>ClipPlane5</string>
+		</dict>
+		<key>inputClipFX</key>
+		<dict>
+			<key>description</key>
+			<string>ClipFX</string>
+			<key>name</key>
+			<string>ClipFX</string>
+		</dict>
+
+		<key>inputClipFY</key>
+		<dict>
+			<key>description</key>
+			<string>ClipFY</string>
+			<key>name</key>
+			<string>ClipFY</string>
+		</dict>
+		<key>inputClipFZ</key>
+		<dict>
+			<key>description</key>
+			<string>ClipFZ</string>
+			<key>name</key>
+			<string>ClipFZ</string>
+		</dict>
+		<key>inputClipFW</key>
+		<dict>
+			<key>description</key>
+			<string>ClipFW</string>
+			<key>name</key>
+			<string>ClipFW</string>
+		</dict>
+
+		
+		
+		
+	</dict>
+	<key>outputAttributes</key>
+	<dict>
+	</dict>
+</dict>
+</plist>
