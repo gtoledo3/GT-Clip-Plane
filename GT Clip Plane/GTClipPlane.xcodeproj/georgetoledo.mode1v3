@@ -229,8 +229,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -278,8 +276,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>19</integer>
-									<integer>18</integer>
+									<integer>10</integer>
+									<integer>8</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -303,7 +301,7 @@
 							<real>141</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>83 55 982 691 0 0 1024 746 </string>
+						<string>42 55 982 691 0 0 1024 746 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -314,12 +312,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>GTClipPlanePatch.m</string>
+								<string>GTClipPlanePatch.xml</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -327,20 +327,20 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>GTClipPlanePatch.m</string>
+										<string>GTClipPlanePatch.xml</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>6ADBF1EB1622A7CA0031BB2A</string>
+										<string>6ACE1ECE1622C66800661B94</string>
 										<key>history</key>
 										<array>
 											<string>6A337F4713A9C430001FB0EC</string>
 											<string>6A337F4913A9C430001FB0EC</string>
-											<string>6ADBF1AF1622A5560031BB2A</string>
-											<string>6ADBF1B01622A5560031BB2A</string>
 											<string>6ADBF1E81622A7CA0031BB2A</string>
 											<string>6ADBF1E91622A7CA0031BB2A</string>
-											<string>6ADBF1EA1622A7CA0031BB2A</string>
+											<string>6ACE1ECC1622C66800661B94</string>
+											<string>6ACE1ECD1622C66800661B94</string>
+											<string>6ADBF1AF1622A5560031BB2A</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -352,14 +352,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {819, 518}}</string>
+								<string>{{0, 0}, {819, 514}}</string>
 								<key>RubberWindowFrame</key>
-								<string>83 55 982 691 0 0 1024 746 </string>
+								<string>42 55 982 691 0 0 1024 746 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>518pt</string>
+							<string>514pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -372,14 +372,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 523}, {819, 127}}</string>
+								<string>{{0, 519}, {819, 131}}</string>
 								<key>RubberWindowFrame</key>
-								<string>83 55 982 691 0 0 1024 746 </string>
+								<string>42 55 982 691 0 0 1024 746 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>127pt</string>
+							<string>131pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -398,9 +398,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>6ADBF1B21622A5560031BB2A</string>
+				<string>6ACE1ECF1622C66800661B94</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>6ADBF1B31622A5560031BB2A</string>
+				<string>6ACE1ED01622C66800661B94</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -539,10 +539,10 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>6AB93729131CAA15005F2714</string>
-		<string>/Volumes/Leopard/firdaysep9th2010BackupDesktop/DESKTOP NEW/Desktop/Desk/GT Clip Plane/GT Clip Plane/GTClipPlane.xcodeproj</string>
+		<string>/Users/georgetoledo/GT-Clip-Plane/GT Clip Plane/GTClipPlane.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>83 55 982 691 0 0 1024 746 </string>
+	<string>42 55 982 691 0 0 1024 746 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -619,7 +619,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>6AB93729131CAA15005F2714</string>
-				<string>6ADBF1B41622A5560031BB2A</string>
+				<string>6ACE1ED11622C66800661B94</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
